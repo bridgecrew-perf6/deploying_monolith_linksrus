@@ -1,0 +1,7 @@
+cockroach sql --url "postgresql://virsel:v1KpHsBBgypyNeR0@free-tier7.aws-eu-west-1.cockroachlabs.cloud:26257/defaultdb?sslmode=verify-full&sslrootcert=$env:appdata\.postgresql\root.crt&options=--cluster%3Dshy-panda-1497"
+
+
+username =virsel
+host =free-tier7.aws-eu-west-1.cockroachlabs.cloud
+port =26257
+database =shy-panda-1497.defaultdb
